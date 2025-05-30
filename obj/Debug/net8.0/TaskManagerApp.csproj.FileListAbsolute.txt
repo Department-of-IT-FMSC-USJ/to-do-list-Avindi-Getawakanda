@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\TaskManagerApp\bin\Debug\net8.0\TaskManagerApp.exe
+C:\Users\dell\source\repos\TaskManagerApp\bin\Debug\net8.0\TaskManagerApp.deps.json
+C:\Users\dell\source\repos\TaskManagerApp\bin\Debug\net8.0\TaskManagerApp.runtimeconfig.json
+C:\Users\dell\source\repos\TaskManagerApp\bin\Debug\net8.0\TaskManagerApp.dll
+C:\Users\dell\source\repos\TaskManagerApp\bin\Debug\net8.0\TaskManagerApp.pdb
+C:\Users\dell\source\repos\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.AssemblyInfo.cs
+C:\Users\dell\source\repos\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.dll
+C:\Users\dell\source\repos\TaskManagerApp\obj\Debug\net8.0\refint\TaskManagerApp.dll
+C:\Users\dell\source\repos\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.pdb
+C:\Users\dell\source\repos\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.genruntimeconfig.cache
+C:\Users\dell\source\repos\TaskManagerApp\obj\Debug\net8.0\ref\TaskManagerApp.dll
